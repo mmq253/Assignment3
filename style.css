@@ -1,0 +1,37 @@
+@font-face {
+    font-family:New York Extra ;
+    src: url(FontsFree-Net-NewYorkExtraLargeRegular.ttf);}
+@font-face{
+    font-family:sf mono ;
+    src: url(FontsFree-Net-SFMono-Regular.ttf);}
+@font-face {
+        font-family:sf pro ;
+        src: url(SFPRODISPLAYBOLD.OTF);
+    }
+@font-face{font-family:new york ;
+ src: url(FontsFree-Net-NewYorkSmallRegular.ttf);}
+ 
+.head h3{font-family:New York Extra;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 54px;
+    line-height: 100%;
+    text-align: center;
+    color: #000000;}
+.head p{font-family:sf mono;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 170%;
+        text-align: center;
+        color: #000000;}
+.topline{margin-top: 10px;
+    border-top: 2px solid #000000; }
+    
+    .container{text-align: center;}
+.para1{font-family:new york;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 170%;
+    color: #000000;}
